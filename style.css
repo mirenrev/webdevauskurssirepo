@@ -41,7 +41,7 @@ img	{
 	border-color: white;
 	margin: 5px;
 	height: auto;
-	width: 100%;
+	max-width: 100%;
 
 }
 
